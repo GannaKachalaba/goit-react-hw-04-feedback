@@ -13,5 +13,3 @@ export default function Notification({ message }) {
 Notification.prototype = {
   message: PropTypes.string.isRequired,
 };
-
-// export default Notification;
